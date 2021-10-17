@@ -1,0 +1,15 @@
+.resourse{
+    background-color: lightslategray;
+    height: 40px;
+    width: 100%;
+    padding: 25px 0px 50px 0px;
+    /* padding-top: 10px;
+    padding-bottom: 40px; */
+}
+#Navigation{
+    background-color: lightsteelblue;
+    height: 60px;
+    display:flexbox;
+    /* padding: 5px 0px 30px 0px; */
+    justify-content: center;
+}
